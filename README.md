@@ -2,7 +2,7 @@
 Learn formulas and more!
 
 # Info
-Click on buttons to add fractions, lower and upper index and other. By clicking on upper/lower part of fraction you select it (green backgroun) and after clicking button to add elements, the elements will be added there.
+Click on buttons to add fractions, lower and upper index and other. By clicking on upper/lower part of fraction you select it (green background) and after clicking button to add elements, the elements will be added there. Do not write units using fractions.
 This website is only for learning.
 
 # Version info (0.0.1)
