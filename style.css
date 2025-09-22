@@ -226,14 +226,17 @@ h2 {
     h1 {
         width: 95%;
         top: 0;
+        font-size: 2rem;
     }
 
     h2 {
         width: 95%;
+        font-size: 1.5rem;
     }
 
     #tools {
         width: 95%;
+        scale: 0.9;
     }
 
     #remove {
