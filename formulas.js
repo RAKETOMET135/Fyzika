@@ -112,7 +112,7 @@ export const formulas = [
             },
             {
                 type: "fraction",
-                upepr: [
+                upper: [
                     {
                         type: "text",
                         value: "m"
