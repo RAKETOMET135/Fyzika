@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fyzika - vzorečky</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="bg"></div>
+
+    <h1 id="question-name">Napiš vzorec:</h1>
+    <h2 id="question-desc">relativní atomová hmotnost (Ar)</h2>
+
+    <div id="main-part">
+        <div id="user-input"></div>
+
+        <button id="submit">✓</button>
+    </div>
+
+    <div id="tools">
+        <button id="add-fraction" class="tool">
+            <img src="images/fraction.png" alt="">
+        </button>
+
+        <button id="bottom-index" class="tool">
+            <img src="images/bottom_index.png" alt="">
+        </button>
+
+        <button id="upper-index" class="tool">
+            <img src="images/upper_index.png" alt="">
+        </button>
+
+        <button id="input" class="tool">
+            <img src="images/input.png" alt="">
+        </button>
+
+        <button id="hustota" class="tool">
+            <img src="images/hustota.png" alt="">
+        </button>
+
+        <button id="remove" class="tool">
+            <img src="images/remove.png" alt="">
+        </button>
+    </div>
+
+    <div id="rating">
+        <p id="correct">Správně: 0</p>
+        <p id="incorrect">Špatně: 0</p>
+        <p id="streak">Série: 0</p>
+    </div>
+
+    <p id="info">V0.0.1 - Slouží pouze k učení; části u vzorců musí mít pořadí, jak jsme si ho psali do sešitu (v této verzi)</p>
+
+    <script src="main.js" type="module"></script>
+</body>
+</html>
